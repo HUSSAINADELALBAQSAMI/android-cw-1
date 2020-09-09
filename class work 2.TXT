@@ -1,0 +1,17 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        int Z=15;
+        int T=16;
+        System.out.println(Z+T);
+        int G=31;
+     int H=31;
+     System.out.println(G*H);
+    int c=43;
+    int b=43;
+    System.out.println(c<b);
+    
+     }
+}
+     
